@@ -2,11 +2,11 @@ spring:
  profiles: "default"
 
 cook:
-  special: Test
+  special: Hai
   
 --- 
 spring:
  profiles: "dev"
 
 cook:
-  special: test  
+  special: Dude  
