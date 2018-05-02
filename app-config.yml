@@ -9,4 +9,4 @@ spring:
  profiles: "dev"
 
 cook:
-  special: Hai  
+  special: Works  
