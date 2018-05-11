@@ -1,1 +1,1 @@
-# configRepo for testing
+# configRepo for test
