@@ -9,4 +9,4 @@ spring:
  profiles: "dev"
 
 cook:
-  special: working  
+  special: work
