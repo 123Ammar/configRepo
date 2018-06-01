@@ -4,9 +4,9 @@ spring:
 user:
   name: Ammar
   
- ---
+---
  
- spring:
+spring:
  profiles: "stage"
 
 user:
