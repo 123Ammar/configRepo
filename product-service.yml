@@ -5,6 +5,13 @@ spring:
   username: onair
   password: nbcci
   url: jdbc:oracle:thin:@//aoadbsq00002c0.tfayd.com:15193/U124rpt
+  boot:
+    admin:
+      url:
+      - http://admin-server.labash.inbcu.com
+      username: admin 
+      password: admin123
+     
 
 product:
  owner: Adsales Dev
