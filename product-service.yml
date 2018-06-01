@@ -1,5 +1,10 @@
 spring:
  profiles: "dev"
+ datasource:
+  driverClassName: 'oracle.jdbc.driver.OracleDriver'
+  username: onair
+  password: nbcci
+  url: jdbc:oracle:thin:@//aoadbsq00002c0.tfayd.com:15193/t123rpt
 
 product:
  list: Shirts,Pants
@@ -8,6 +13,11 @@ product:
  
 spring:
  profiles: "stage"
+ datasource:
+  driverClassName: 'oracle.jdbc.driver.OracleDriver'
+  username: onair
+  password: nbcci
+  url: jdbc:oracle:thin:@//aoadbsq00002c0.tfayd.com:15193/t123rpt 
 
 product:
  list: Shirts,Jeans Pants
