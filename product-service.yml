@@ -2,12 +2,12 @@ spring:
  profiles: "dev"
 
 product:
-  list: Shirts,Pants
+ list: Shirts,Pants
   
  ---
  
- spring:
+spring:
  profiles: "stage"
 
 product:
-  list: Shirts,Jeans Pants
+ list: Shirts,Jeans Pants
