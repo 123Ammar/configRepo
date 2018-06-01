@@ -1,1 +1,13 @@
+spring:
+ profiles: "dev"
 
+product:
+  list: Shirts,Pants
+  
+ ---
+ 
+ spring:
+ profiles: "stage"
+
+product:
+  list: Shirts,Jeans Pants
