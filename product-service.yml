@@ -4,7 +4,7 @@ spring:
   driverClassName: 'oracle.jdbc.driver.OracleDriver'
   username: onair
   password: nbcci
-  url: jdbc:oracle:thin:@//aoadbsq00002c0.tfayd.com:15193/t123rpt
+  url: jdbc:oracle:thin:@//aoadbsq00002c0.tfayd.com:15193/U124rpt
 
 product:
  owner: Adsales Dev
@@ -17,7 +17,7 @@ spring:
   driverClassName: 'oracle.jdbc.driver.OracleDriver'
   username: onair
   password: nbcci
-  url: jdbc:oracle:thin:@//aoadbsq00002c0.tfayd.com:15193/t123rpt 
+  url: jdbc:oracle:thin:@//aoadbsq00002c0.tfayd.com:15193/U124rpt
 
 product:
  owner: Adsales Stage
