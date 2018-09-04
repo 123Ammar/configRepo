@@ -8,3 +8,6 @@ spring:
       
 product:
  owner: Adsales Dev
+ 
+ 
+ productServiceURI: http://PRODUCT-SERVICE/getAllProducts
