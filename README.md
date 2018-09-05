@@ -1,1 +1,1 @@
-# configRepo test 
+# configRepo for storing Applications Properties files
