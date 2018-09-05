@@ -1,6 +1,6 @@
 spring:
   profiles: "dev"
 user:
-  name: Test
+  name: Testing
 
 productServiceURI: http://PRODUCT-SERVICE/getAllProducts
