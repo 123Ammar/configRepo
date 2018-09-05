@@ -3,4 +3,4 @@ spring:
 user:
   name: Test
 
-productServiceURI: http://PRODUCT-SERVICE/getAllProducts
+productServiceURI: http://PRODUC-SERVICE/getAllProducts
