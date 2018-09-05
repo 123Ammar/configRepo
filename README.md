@@ -1,1 +1,1 @@
-# configRepo for storing Applications Properties files
+# Repository for storing Applications Properties files
